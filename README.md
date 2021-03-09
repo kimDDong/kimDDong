@@ -1,4 +1,31 @@
-### Hi there 👋
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkimDDong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimDDong/)](https://www.linkedin.com/in/kimDDong/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimdonghyun8480)](https://www.facebook.com/kimdonghyun8480)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdh26377@gmail.com)](mailto:nayunhwan.dev@gmail.com)
+
+</div>
+
+* NBH : [Recipe 🍱](https://www.godkimchi.ga)
+
+![ Anurag의 github 통계 ](https://github-readme-stats.vercel.app/api?username=kimDDong&hide=prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimDDong&layout=compact&hide_border=true)
+
+<!--
+**kimDDong/kimDDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **kimDDong/kimDDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
